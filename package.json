@@ -1,0 +1,23 @@
+{
+  "name": "githubclass",
+  "version": "1.0.0",
+  "description": "git practice",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kify7/practicaGit.git"
+  },
+  "keywords": [
+    "git",
+    "intermedio"
+  ],
+  "author": "Karla Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kify7/practicaGit/issues"
+  },
+  "homepage": "https://github.com/Kify7/practicaGit#readme"
+}
